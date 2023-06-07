@@ -1,3 +1,4 @@
+using Newspaper.Models;
 namespace Newspaper.Tests
 {
     public class ArticleTests
